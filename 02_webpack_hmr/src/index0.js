@@ -1,6 +1,6 @@
 function render() {
   div = document.createElement('div')
-  div.innerHTML = 'Hello World0';
+  div.innerHTML = 'Hello World';
   document.body.appendChild(div)
 }
 
